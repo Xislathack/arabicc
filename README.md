@@ -1,0 +1,2 @@
+# arabicc
+Arabic words
